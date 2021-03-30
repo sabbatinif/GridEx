@@ -50,3 +50,12 @@ Finally, the same can be executed for GridEx with this instruction:
 ```python
 testGridex()
 ```
+
+## References
+
+1. Airfoil Self-Noise Data Set. https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise (2014), [Online; last accessed 19 Jan 2021].
+2. Combined Cycle Power Plant Data Set. https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant (2014), [Online; last accessed 19 Jan 2021].
+3. Energy Efficiency Data Set. https://archive.ics.uci.edu/ml/datasets/Energy+efficiency (2012), [Online; last accessed 19 Jan 2021].
+4. Gas Turbine CO and NOx Emission Data Set. https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set (2019), [Online; last accessed 19 Jan 2021].
+5. Huysmans, J., Baesens, B., Vanthienen, J.: Iter: an algorithm for predictive regression rule extraction. In: International Conference on Data Warehousing and Knowledge Discovery. pp. 270{279. Springer (2006).
+6. Wine Quality Data Set. https://archive.ics.uci.edu/ml/datasets/Wine+Quality (2009), [Online; last accessed 19 Jan 2021].
